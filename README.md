@@ -21,7 +21,7 @@ The UAV footage shown in the demo video was not included in the training dataset
 
 # 🧪 Google Colab - Reproduce Our Results
 
-You can run the full inference or training pipeline via Google Colab :
+You can run the full inference (Here are the pretrained weights) or training pipeline via Google Colab :
 
 # 📊 Dataset: Merged Public Power Cable Dataset (MPCD)
 
