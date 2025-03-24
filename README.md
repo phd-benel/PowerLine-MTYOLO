@@ -25,6 +25,8 @@ The UAV footage shown in this demo video was not included in the training datase
 
 You can run the full inference (Here are the pretrained weights https://github.com/phd-benel/PowerLine-MTYOLO/blob/main/PowerLine-MTYOLO-NANO-150Epochs.pt) or training pipeline via Google Colab :
 
+https://colab.research.google.com/drive/1A0yTIyYsBfRdpleP5uwZb8QD4S04Rrjg?usp=sharing
+
 # 📊 Dataset: Merged Public Power Cable Dataset (MPCD)
 
 We aggregate and relabel 5 public Roboflow datasets for multitask training, resulting in:
