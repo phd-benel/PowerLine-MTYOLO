@@ -39,14 +39,13 @@ https://drive.google.com/file/d/1KyciMmwL2_p_-mwckHFqG5fkBA1jzATv/view?usp=shari
 
 # 💻 Code Availability
 
+https://drive.google.com/file/d/1FJP-EsAv12IhYyOiIy1K9Q-DL5mUpn-X/view?usp=drive_link
 
 # 📄 License
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 # 🙏 Acknowledgments
-We thank the Ultralytics YOLO team for providing the foundation upon which PowerLine-MTYOLO is built.
-We also acknowledge the Roboflow community for the datasets that helped us create MPCD.
-And also A yolo M for ...
+We thank the Ultralytics YOLO team for providing the foundation upon which PowerLine-MTYOLO is built. We also acknowledge the Roboflow community for the open-source datasets that enabled the construction of the Merged Public Power Cable Dataset (MPCD). Additionally, we extend our appreciation to the authors of A-YOLOM [Wang et al., 2023, GitHub: https://github.com/JiayuanWang-JW/YOLOv8-multi-task] for their pioneering work in multitask learning, which served as the architectural basis and inspiration for our proposed framework.
 
 # 📌 Citation
 Once published, please cite the paper using the following format (to be updated): 
