@@ -33,7 +33,7 @@ We aggregate and relabel 5 public Roboflow datasets for multitask training, resu
 
 1,906 broken cable annotations
 
-
+https://drive.google.com/file/d/1KyciMmwL2_p_-mwckHFqG5fkBA1jzATv/view?usp=sharing
 
 # 💻 Code Availability
 
