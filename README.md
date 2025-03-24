@@ -11,7 +11,7 @@ Power transmission infrastructure requires continuous inspection to prevent faul
 
 To address these limitations, we propose PowerLine-MTYOLO, a lightweight, one-stage multitask model designed for simultaneous power cable segmentation and broken strand detection from UAV imagery. Built upon the A-YOLOM architecture and leveraging the YOLOv8 foundation, our model introduces four specialized modules—SDPM, HAD, EFR, and Shape-Aware WiseIoU loss—to improve geometric understanding, structural consistency, and bounding box precision.
 
-We also release the Merged Public Power Cable Dataset (MPCD), a diverse open-source dataset tailored for multitask training and evaluation. Experimental results show that PowerLine-MTYOLO achieves up to +10.68% mAP50 and +1.7% IoU over A-YOLOM, while outperforming recent YOLO-based detectors in both accuracy and efficiency. These gains are achieved with a smaller model footprint and the same inference speed as A-YOLOM.
+We also release the Merged Public Power Cable Dataset (MPCD), a diverse open-source dataset tailored for multitask training and evaluation. Experimental results show that PowerLine-MTYOLO achieves up to +10.68% mAP50 and +1.7% IoU over A-YOLOM, while outperforming recent YOLO-based detectors in both accuracy and efficiency. These gains are achieved with a smaller model footprint and the same inference speed as A-YOLOM. By unifying detection and seg-25 mentation into a single framework, PowerLine-MTYOLO offers an interesting solution for 26 autonomous aerial inspection and provides a foundation for future advancements in fine-27 structure monitoring tasks.
 
  # 🎥 Video Demonstration
  
