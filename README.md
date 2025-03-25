@@ -14,7 +14,7 @@ To address these limitations, we propose PowerLine-MTYOLO, a lightweight, one-st
 We also release the Merged Public Power Cable Dataset (MPCD), a diverse open-source dataset tailored for multitask training and evaluation. Experimental results show that PowerLine-MTYOLO achieves up to +10.68% mAP50 and +1.7% IoU over A-YOLOM, while outperforming recent YOLO-based detectors in both accuracy and efficiency. These gains are achieved with a smaller model footprint and the same inference speed as A-YOLOM. By unifying detection and seg-25 mentation into a single framework, PowerLine-MTYOLO offers an interesting solution for 26 autonomous aerial inspection and provides a foundation for future advancements in fine-27 structure monitoring tasks.
 
  # 🎥 Video Demonstration
-[![Watch the video](https://github.com/user-attachments/assets/edbccd9c-1082-46ca-bbdb-7344cebc93aa)]([https://drive.google.com/file/d/1BAyHy7wOnVeD2ZADb3s6ebX8UoOnylSc/view?usp=sharing])
+[![Watch the video](https://github.com/user-attachments/assets/edbccd9c-1082-46ca-bbdb-7344cebc93aa)](https://drive.google.com/file/d/1BAyHy7wOnVeD2ZADb3s6ebX8UoOnylSc/view?usp=sharing)
 
 
 The UAV footage shown in this demo video was not included in the training dataset (MPCD). This "unseen data" was used exclusively for visual evaluation, demonstrating PowerLine-MTYOLO’s ability to generalize to new and diverse real-world inspection scenarios.
