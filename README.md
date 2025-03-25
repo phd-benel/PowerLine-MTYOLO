@@ -15,7 +15,7 @@ We also release the Merged Public Power Cable Dataset (MPCD), a diverse open-sou
 
  # 🎥 Video Demonstration
 
-[![Watch the video](https://github.com/user-attachments/assets/edbccd9c-1082-46ca-bbdb-7344cebc93aa)](https://drive.google.com/file/d/1BAyHy7wOnVeD2ZADb3s6ebX8UoOnylSc/view?usp=sharing)
+[![Watch the video](https://github.com/user-attachments/assets/edbccd9c-1082-46ca-bbdb-7344cebc93aa)]([https://drive.google.com/file/d/1BAyHy7wOnVeD2ZADb3s6ebX8UoOnylSc/view?usp=sharing](https://drive.google.com/file/d/1IDv4q4U8GqUEUcDtWPi5VUOeRUHWT77L/view?usp=sharing))
 
 
 The UAV footage shown in this demo video was not included in the training dataset (MPCD). This "unseen data" was used exclusively for visual evaluation, demonstrating PowerLine-MTYOLO’s ability to generalize to new and diverse real-world inspection scenarios.
