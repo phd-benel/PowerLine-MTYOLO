@@ -3,7 +3,7 @@
 Hy, Peace be upon you,
 
 This repository contains the code, dataset links, and demo video for the paper:
-"PowerLine-MTYOLO: A Multitask YOLO Model for Simultaneous Cable Segmentation and Broken Strands Detection", currently under submission to MDPI Drones.
+"PowerLine-MTYOLO: A Multitask YOLO Model for Simultaneous Cable Segmentation and Broken Strands Detection", published in MDPI Drones.
 
 # 📜 Abstract
 
