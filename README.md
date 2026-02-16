@@ -49,4 +49,6 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 We thank the Ultralytics YOLO team for providing the foundation upon which PowerLine-MTYOLO is built. We also acknowledge the Roboflow community for the open-source datasets that enabled the construction of the Merged Public Power Cable Dataset (MPCD). Additionally, we extend our appreciation to the authors of A-YOLOM [Wang et al., 2023, GitHub: https://github.com/JiayuanWang-JW/YOLOv8-multi-task] for their pioneering work in multitask learning, which served as the architectural basis and inspiration for our proposed framework.
 
 # 📌 Citation
-Once published, please cite the paper using the following format (to be updated): 
+
+MDPI and ACS Style
+Benelmostafa, B.-E.; Medromi, H. PowerLine-MTYOLO: A Multitask YOLO Model for Simultaneous Cable Segmentation and Broken Strand Detection. Drones 2025, 9, 505. https://doi.org/10.3390/drones9070505
